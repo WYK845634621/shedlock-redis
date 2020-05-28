@@ -1,0 +1,9 @@
+server:
+  port: 8014
+
+spring:
+  redis:
+    database: 1
+    host: 10.253.46.47
+    port: 6379
+    password: 123
